@@ -5,5 +5,3 @@ test txt2
 del1
 
 revert1
-
-revert2
