@@ -3,5 +3,3 @@ test txt1
 test txt2
 
 del1
-
-revert1
